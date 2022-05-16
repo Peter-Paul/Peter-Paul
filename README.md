@@ -1,7 +1,7 @@
 Hi 👋 My name is Mungati Peter
 ==============================
 
-Full Stack Web and Mobile Developer and Python Automation Programmer
+Full Stack Blockchain Developer and Python Automation Programmer
 --------------------------------------------------------------------
 
 I am an innovative Web , Mobile and Blockchain Developer with 5 years of experience in application design and development. Demonstrated talent to optimize online presence and possess expertise in languages such as Python, Typescript, JavaScript, C++ and most recently Solidity for Blockchain Development. Collaborative team player with excellent technical abilities. Logical, results-driven and dedicated to building and optimizing user-focused applications for customers with various business objectives. Judicious and creative when crafting effective applications and platforms to propel competitive advantage and revenue growth with key focus on application performance
