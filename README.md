@@ -1,13 +1,11 @@
 Hi 👋 My name is Mungati Peter
 ==============================
 
-Full Stack Blockchain Developer and Python Automation Programmer
+Senior Fullstack Developer | Security Engineer | Cross-Chain Systems Architect | Distributed Systems
 --------------------------------------------------------------------
 
-I am an innovative Web , Mobile and Blockchain Developer with 5 years of experience in application design and development. Demonstrated talent to optimize online presence and possess expertise in languages such as Python, Typescript, JavaScript, C++ and Solidity for Blockchain Development. Collaborative team player with excellent technical abilities. Logical, results-driven and dedicated to building and optimizing user-focused applications for customers with various business objectives. Judicious and creative when crafting effective applications and platforms to propel competitive advantage and revenue growth with key focus on application performance
-
 * 🌍  I'm based in Kampala
-* 🖥️  See my portfolio at [Portfolio](http://petethedev.com)
+* 🖥️  See my portfolio at [Portfolio](https://ppmunga.eth.limo/)
 * ✉️  You can contact me at [ppmunga@gmail.com](mailto:ppmunga@gmail.com)
 
 <a href="https://www.twitter.com/_petethedev" target="_blank" rel="noreferrer"><img
